@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Classroom
+comment0.text=\r\n\ Name\:\ Ron\ Nguyen\r\n\ Course\:\ CS20S\r\n\ Teacher\:\ Mr.\ Hardman\r\n\ Lab\ \#4,\ Program\ \#3\r\n\ Date\ Last\ Modified\:\ 11/21/2017\r\n
+comment1.params=
+comment1.target=Classroom()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Classroom.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepare()
+numComments=3
